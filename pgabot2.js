@@ -1230,7 +1230,8 @@ ${z}🐶 ${prefix}downloadmenu${z}
 ${z}🐶 ${prefix}funmenu${z}
 ${z}🐶 ${prefix}nsfwmenu${z}
 ${z}🐶 ${prefix}animemenu${z}
-    watch how you can install this bot in your whatsapp: https://youtu.be/zXvwqA8LvTw
+    *SUBSCRIBE TO MY OWNER*— youtube.com/pgaff
+    *MESSAGE MY OWNER*— wa.me/918617738028?text=Hi%20bro%20Can%20I%20Be%20Your%20Friend%20?
 ┗━━━━━━━━━━━━━━━━━`
 buttons = [
 {buttonId:`scbot`, buttonText: {displayText: 'BOT SCRIPT🔖'}, type: 1},
