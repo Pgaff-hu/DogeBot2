@@ -1,7 +1,7 @@
 {
-  "name": "pgabotv2",
+  "name": "pgabot2",
   "description": "whatsapp bot build with nodejs",
-  "repository": "https://github.com/PGA-FF/pgabotv2",
+  "repository": "https://github.com/PGA-FF/pgabot2",
   "logo": "https://pbs.twimg.com/media/Erh9GtGXYAETLkU?format=jpg&name=900x900",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"],
   "buildpacks": [
