@@ -16,7 +16,7 @@
 </p>
 
 ## Deploy (you can use this button either)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PGA-FF/pgabotv2/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PGA-FF/pgabot2/)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -38,16 +38,11 @@ heroku/nodejs
 
 [`Click Here`](https://github.com/PGA-FF/pgabotv2/blob/master/session.json#L1)
 
-## `SETTING`
-
-- CHANGE OWNER NUMBER [Here](https://github.com/PGA-FF/pgabotv2/blob/master/settings.json#L10)
-- CHANGE OWNER NAME [Here](https://github.com/PGA-FF/pgabotv2/blob/master/settings.json#L12)
-
 # Installation
 ## Clone Repo & Installation dependencies
 ```bash
  git clone https://github.com/PGA-FF/pgabotv2.git
- cd DogeBot2
+ cd pgabot2
  npm start
 ```
 ## For Termux
@@ -63,8 +58,8 @@ heroku/nodejs
  pkg install ffmpeg -y 
  pkg install wget
  pkg install imagemagick -y
- git clone https://github.com/PGA-FF/pgabotv2
- cd DogeBot2
+ git clone https://github.com/PGA-FF/pgabot2
+ cd pgabot2
  ls
  rm -rf session.json
  npm install
