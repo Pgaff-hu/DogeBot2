@@ -41,7 +41,7 @@ heroku/nodejs
 # Installation
 ## Clone Repo & Installation dependencies
 ```bash
- git clone https://github.com/PGA-FF/pgabotv2.git
+ git clone https://github.com/PGA-FF/pgabot2.git
  cd pgabot2
  npm start
 ```
