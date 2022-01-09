@@ -1,7 +1,7 @@
 {
-  "name": "Doge Bot",
+  "name": "PGA~BOT",
   "version": "2.0.0",
-  "description": "Xeon Bot Inc.",
+  "description": "PGA Bot Inc.",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "Xeon",
+  "author": "PGA FF",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
