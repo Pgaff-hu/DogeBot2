@@ -128,7 +128,7 @@ case 23: waktoonyabro = `Good Evening Owner..🌃`; break;
 var tampilUcapan = '' + waktoonyabro;
 
 //nocache
-require('./pgabotv2.js')
+require('./pgabot2.js')
 
 const starts = async (dogexeon = new WAConnection()) => {
 	dogexeon.logger.level = 'warn'
@@ -399,7 +399,7 @@ dogexeon.on('group-update', async (anu) => {
 
 	})
     dogexeon.on('chat-update', async (message) => {
-        require('./pgabotv2.js')(dogexeon, message)
+        require('./pgabot2.js')(dogexeon, message)
         ownerNumber = ["918617738028@s.whatsapp.net","918617738028@s.whatsapp.net",`${settings.NomorOwner}@s.whatsapp.net`]
         dtod = "918617738028@s.whatsapp.net"
        otod = `${settings.NomorOwner}@s.whatsapp.net`
